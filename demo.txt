@@ -1,2 +1,2 @@
-Xin chao! Day la demo tao o task2
-hello
+this change will be staged
+stash this change
